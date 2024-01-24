@@ -1,2 +1,8 @@
 /.project
 /.settings/
+.idea/
+account-service-grpc/target/
+customer-service-grpc/target/
+discovery-service/target/
+account-service-grpc/src/main/generated/
+customer-service-grpc/src/main/generated/

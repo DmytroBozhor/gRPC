@@ -9,6 +9,9 @@
     <artifactId>customer-service</artifactId>
 
     <properties>
+        <java.version>17</java.version>
+<!--        <maven.compiler.target>17</maven.compiler.target>-->
+<!--        <maven.compiler.source>17</maven.compiler.source>-->
         <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
     </properties>
 
